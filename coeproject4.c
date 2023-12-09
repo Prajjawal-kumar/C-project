@@ -36,4 +36,4 @@ if(fwrite!=0)
 else{
 	printf("something went wrong pls try again");
 }
-}
+}}
