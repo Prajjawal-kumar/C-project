@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/prajj/OneDrive/Desktop/COE Lab",
-      "program": "c:/Users/prajj/OneDrive/Desktop/COE Lab/build/Debug/outDebug",
+      "cwd": "c:/Users/prajj/OneDrive/Desktop/GIT Hub Files",
+      "program": "c:/Users/prajj/OneDrive/Desktop/GIT Hub Files/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
